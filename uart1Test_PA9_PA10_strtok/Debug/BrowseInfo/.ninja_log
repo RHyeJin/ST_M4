@@ -1,0 +1,143 @@
+# ninja log v5
+1	81	6979591620000000	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	6a2a6b934801cd01
+83	141	6979591620000000	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/main.xcl	f7f2b6f82f012dfa
+118	239	6979647805447353	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	888b8daadc1bf4ec
+5	85	6979591620000000	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	7e54914c1e3719c2
+179	245	6979597604561113	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/uartTest_part2.pbi	7be92d46c383b4e4
+8	88	6979591620000000	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	9f6c1ead3ab86dbe
+11	89	6979591620000000	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	9168f0e69d8e7767
+0	117	6979596588455462	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	1cac8dc0de8064c2
+141	161	6979591621047635	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	3cdb02c9c207ac91
+4	120	6979596588455462	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	1409e00231a91950
+3	126	6979596588532568	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	6f343fa434c028ae
+121	164	6979596588869852	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/uartTest_part0.pbi	cc1d8af727c0096e
+247	321	6979597605271116	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/uartTest.pbd	e5ea4a919fd37d27
+150	266	6979647805709492	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	1ac5dafc3ce4033a
+6	123	6979596588455462	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/main.pbi	e9dfc3997eb13f7
+127	193	6979596589192115	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/uartTest_part1.pbi	100a4098004d3539
+14	87	6979647800000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	32828b3b0b76dbd
+12	90	6979647800000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	fd6e9632384da79d
+246	774	6979688898966383	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/uartTest_int.pbw	300ed0209b7b387d
+322	846	6979597610473807	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/uartTest.pbw	9dd689856b2b63cd
+2	62	6979597600000000	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	8f145a0a28efdc9c
+63	178	6979597603964212	C:/Users/KCCI/Documents/iar/uartTest/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	25e1fe7e954ce5d8
+9	80	6979647800000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	a05c9a9bf83d2500
+16	93	6979647800000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	784a69d18ba4db3a
+93	117	6979647804156507	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	33bf1de04dbb9c02
+88	150	6979647800000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	f364090903cdf574
+91	154	6979647800000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/main.xcl	6a0bfacb1c7f2d84
+80	204	6979647805054798	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	14ea63902e048470
+1	122	6979688892624002	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/main.pbi	b34f1b96faaf5a98
+179	244	6979654530405336	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/uartTest_int_part0.pbi	9eb387339b21940e
+204	328	6979647806311993	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	eb4b5ae40d020826
+6	100	6979654529008919	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/uartTest_int_part1.pbi	8b2a778c4e6ca201
+123	167	6979688893066499	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/uartTest_int_part2.pbi	86e16be2aabda2cd
+168	245	6979688893845970	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/uartTest_int.pbd	8880f9da9efaf3ea
+1	62	6979654520000000	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/misc.xcl	48e4ceccac30a6c
+64	178	6979654529791520	C:/Users/KCCI/Documents/iar/uartTest_Int/Debug/BrowseInfo/STM32/misc.pbi	7207a06e1b4b8c74
+26	90	6980352290000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	370f416aeb9d3504
+6	95	6980352290000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	7c0afe567d1846a6
+31	100	6980352290000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	3559e9d458347fd3
+28	139	6980352290000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	33aa9c32b336ec5c
+90	149	6980352290000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/main.xcl	7b27d3565b08825a
+96	157	6980352300000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	958e2aaae22055e3
+100	161	6980352300000000	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/misc.xcl	d5d05fd5344161ed
+157	178	6980352300201867	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	1b08737bc45f40e6
+139	255	6980352301000972	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	1a9abad0091262fc
+161	269	6980352301101139	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/misc.pbi	14745b66cde65313
+179	291	6980352301351881	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	ef4f83cbb3a62c
+270	337	6980352301804001	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/uart1Test_strtok_part0.pbi	1a0ecf54a64ec804
+256	370	6980352302155473	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	aea646ed635eae85
+150	383	6980352302302597	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	e63e0b1518f7e2b6
+291	412	6980352302553281	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/main.pbi	aa133530f4e8765b
+412	455	6980352303004089	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	eed7082599e5fefa
+384	476	6980352303203557	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/uart1Test_strtok_part1.pbi	8b9bbcb321ae2af3
+476	552	6980352303901776	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/uart1Test_strtok.pbd	95e6cf574080bab8
+553	1097	6980352309207419	C:/Users/KCCI/Documents/iar/uartTest_strtok/Debug/BrowseInfo/uart1Test_strtok.pbw	aaba4f5b8fdaa173
+1	81	6980367480000000	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.xcl	7c885f9ad113f716
+28	91	6980367480000000	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	e901986b04853807
+93	113	6980367485191096	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	5866d28ca8fda231
+3	123	6980367480000000	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	ebce6ac476cd6ddb
+82	211	6980367486284581	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+124	236	6980367486440796	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	6b23a54c5ff8f2b9
+237	317	6980367487222509	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+319	904	6980367493001929	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+0	197	6980367545589958	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+199	286	6980367546371664	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+287	840	6980367551838487	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+0	118	6980367603671891	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+119	197	6980367604452723	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+199	816	6980367610388443	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+1	119	6980367662224459	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+120	199	6980367663161101	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+201	732	6980367668160134	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+1	117	6980367720155278	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+119	195	6980367720936351	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+196	723	6980367726092036	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+0	122	6980367777874428	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+123	202	6980367778810871	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+204	748	6980367783966563	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+0	122	6980371918311581	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+123	201	6980371919093302	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+202	743	6980371924331372	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+1	123	6980371976340665	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	b2c084e71f031b24
+124	200	6980371977239943	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	82075b1f02adf322
+203	744	6980371982407760	D:/23 자율형 공유폴더/Cortex-m4/examples/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	6d017c8ee87a6bca
+8	73	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	5335a2fe01869b5e
+9	77	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	32ff6fc55d3850c7
+5	79	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	fc419de103fe7068
+11	82	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	572320d568c35178
+75	142	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/misc.xcl	ece92d697049fa72
+80	146	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	42923753a3446a9c
+146	166	6980374838461178	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	46c60db4fcea9165
+77	179	6980374830000000	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.xcl	f09d331eb019a751
+83	208	6980374838929591	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	d41d0699c97532b0
+143	261	6980374839398872	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	4602c7f678f45063
+167	286	6980374839710648	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	71a30e64ff092d29
+179	291	6980374839710648	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/misc.pbi	6474ef2a8f18f4c0
+209	325	6980374840023083	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	3a6cf558c6cfcb30
+291	359	6980374840492351	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part0.pbi	44a356350e9252ef
+261	387	6980374840648574	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	895c1d71039b4bc
+326	415	6980374840960982	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part1.pbi	4d2460ed81a36735
+388	432	6980374841117145	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	e6b5540b9a148097
+433	510	6980374841897641	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	70de7286998cd066
+1	551	6980374897822054	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	83c5763b58187f32
+1	124	6980379283738385	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	895c1d71039b4bc
+125	185	6980379284362584	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	e6b5540b9a148097
+186	303	6980379285612294	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	70de7286998cd066
+303	834	6980379290611758	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	83c5763b58187f32
+2	218	6980409081576462	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	895c1d71039b4bc
+220	280	6980409082201325	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	e6b5540b9a148097
+282	365	6980409083139130	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	70de7286998cd066
+366	1576	6980409095011475	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	83c5763b58187f32
+1	131	6980453404219155	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	895c1d71039b4bc
+133	180	6980453404709616	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	e6b5540b9a148097
+182	266	6980453405571005	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	70de7286998cd066
+266	828	6980453410855836	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	83c5763b58187f32
+1	129	6980456336455690	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	895c1d71039b4bc
+131	176	6980456336924269	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	e6b5540b9a148097
+179	257	6980456337705283	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	70de7286998cd066
+258	798	6980456342956591	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	83c5763b58187f32
+1	124	6980461584573371	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/main.pbi	895c1d71039b4bc
+127	170	6980461585042666	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok_part2.pbi	e6b5540b9a148097
+171	244	6980461585823602	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbd	70de7286998cd066
+246	783	6980461590978121	C:/Users/IoT18/Documents/iar/uart1Test_strtok_printf/Debug/BrowseInfo/uart1Test_strtok.pbw	83c5763b58187f32
+4	74	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	e26b774cb17abfb1
+8	82	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	2f5db472ad3e3b0b
+6	85	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	be8014b244728034
+1	88	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	babeff807abb4f25
+89	119	6980511569112416	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	42a66bba263c7607
+77	147	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/main.xcl	6d128eeddd9da881
+83	150	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	50e0452d5a17437c
+86	153	6980511560000000	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/misc.xcl	d2c04662e3918239
+120	241	6980511570362132	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	eb5106467caeea0
+154	265	6980511570518337	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/misc.pbi	7ec3605311b21d94
+150	268	6980511570518337	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	5ba1fd16b5ba0998
+147	273	6980511570674551	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	d6b02f4f58183586
+273	339	6980511571299406	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/uart1Test_PA9_PA10_strtok_part0.pbi	dcb8c6ba96543879
+242	359	6980511571455627	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	9d8cea991e164c30
+266	393	6980511571768052	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/main.pbi	6ca1e3b9eba6cea7
+1	46	6980566167877962	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/uart1Test_PA9_PA10_strtok_part2.pbi	4106254699f0ea21
+4	92	6980566168346314	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/uart1Test_PA9_PA10_strtok_part1.pbi	41f43510485b8f3b
+94	168	6980566169127402	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/uart1Test_PA9_PA10_strtok.pbd	f6d905ecc60e446d
+169	707	6980566174281927	C:/Users/IoT18/Documents/iar/uart1Test_PA9_PA10_strtok/Debug/BrowseInfo/uart1Test_PA9_PA10_strtok.pbw	b24ac400b19eb9ab
